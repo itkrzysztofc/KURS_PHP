@@ -1,0 +1,67 @@
+body{
+    background-color: #888888;
+    color: #cccccc;
+    font-family: Arial;
+    margin: 0;
+}
+.butt{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#p1:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p2:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p3:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p4:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p5:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p6:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p7:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p8:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+#p9:hover{ background-color: #aaaaaa; 	color: #eeeeee; }
+
+#p1{
+    border: 2px dashed #a2b102;
+    background-color: #008000;
+    color: #a2b102;
+}
+#p2{
+    border: 2px dashed #ffd324;
+    background-color: #00a200;
+    color: #ffd324;
+}
+#p3{
+    border: 2px dashed #fff546;
+    background-color: #00c400;
+    color: #fff546;
+}
+#p4{
+    border: 2px dotted #ff0000;
+    background-color: #0000ff;
+    color: #ff0000;
+}
+#p5{
+    border: 2px dotted #ff2222;
+    background-color: #0000dd;
+    color: #ff2222;
+}
+#p6{
+    border: 2px dotted #ff4444;
+    background-color: #0000bb;
+    color: #ff4444;
+}
+#p7{
+    border: 2px solid #ffffff;
+    background-color: #ff6e00;
+    color: #ffffff;
+}
+#p8{
+    border: 2px solid #888888;
+    background-color: #ffb900;
+    color: #888888;
+}
+#p9{
+    border: 2px solid #000000;
+    background-color: #fff200;
+    color: #000000;
+}
